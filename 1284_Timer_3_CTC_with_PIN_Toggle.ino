@@ -158,7 +158,7 @@ void setup() {
 }/**************************  End Setup **************************/
 
 /*ISR to handle the Timer 1 interrupt */
-ISR(TIMER1_COMPA_vect) {
+ISR(TIMER3_COMPA_vect) {
 
 }
 
