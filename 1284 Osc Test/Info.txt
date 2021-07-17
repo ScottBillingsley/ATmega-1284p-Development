@@ -1,0 +1,2 @@
+This is a test of a single preset oscilator on the 1284, using a 2048 sample constant file and a 
+phase accumulator for counting..
