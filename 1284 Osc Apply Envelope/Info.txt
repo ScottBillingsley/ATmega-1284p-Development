@@ -1,0 +1,6 @@
+
+  Simple Oscilator reading an included sample
+ file containing 2048 8 bit samples from -128 to 127,
+ A pot on A0 to control the freq,
+ Simple single pole lowpass filter on A0,
+ With AM modulation using an envelope
