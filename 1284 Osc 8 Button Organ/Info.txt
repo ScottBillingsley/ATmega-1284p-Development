@@ -1,0 +1,4 @@
+   Simple Oscilator reading an included sample
+ file containing 2048 8 bit samples from -128 to 127,
+ With AM modulation using an envelope
+ 8 button keyboard
