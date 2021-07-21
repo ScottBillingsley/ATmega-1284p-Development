@@ -1,6 +1,6 @@
 /*
                       ATmega 1284p Development
-                      Read the ADCs in a circular maner..
+                      Read the ADCs in a circular poll..
                       
                       Vernon Billingsley c2021
                       https://github.com/ScottBillingsley
